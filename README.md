@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushman Kumar Singh</h1>
-<h3 align="center">A passionate Android app developer, Proficient in Data Structures and Algorithms using Java</h3>
+<h3 align="center">A passionate Data Analyst, Web & Android developer, Proficient in Data Structures and Algorithms using Java</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
